@@ -22,7 +22,7 @@
 
 ## Usage
 
-Link: 
+Link: https://github.com/IsaacFalcon/HomeworkModule1Challenge.git 
 
 ![alt Website Screenshot](assets/images/horiseonwebsitepreview.jpg)
 
