@@ -14,7 +14,7 @@
 - Gave website a descriptive title.
 - Fixed any non functioning links.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Usage](#usage)
 - [Credits](#credits)
